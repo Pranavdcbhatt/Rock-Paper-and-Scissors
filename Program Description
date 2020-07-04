@@ -1,0 +1,15 @@
+Hey there!
+First things first, I apologize for not uploading anything in a while. Hopefully, this code for one of the most popular games out there (no, I'm not talking about any GTA or Call of Duty Game, HAHAH), Rock, Paper, and Scissors, will be helpful, informative and entertaining for you guys!
+Simplicity can be fun rather frequently in our lives. One common example for this statement is this game right here!
+From being a vital part of the games we used to play in our childhood, to a tie-breaker in many silly situations in our daily lives (I lways look forward to play this game with my sisters to decide which one of us will have to bring a bottle of water from the kitchen and many of us might be doing similar things!
+Well, here is a proof, that programming can and should be easy for anyone! The only thing required is for the person to understand how the backbone of the code functions.
+In this case, it is a simple series of "If and Else" statements! (Also a few other basic stuff)
+I had written this code a few years ago, and I feel that this is a good starter for this page as it is one of the most fun and convenient codes I have.
+What it does, is simply ask for your choice, i.e.: 'Paper' , 'Rock', or 'Scissors' and it generates a random choice for the Computer and compares both of the choices and, Voila! most of the work is done here!
+I had added a few conditions for the Computer which would make it more realistic. This, I did by creating one of the choices like a buffer. Do you remember any moments when you woud go blank and could not make a choice between Rock, Paper or Scissors while your opponent plays and gives you a questioning look as to why you didn't play the chance?
+Well, I just added a choice similar to that for the Computer. It's pretty basic and you would understand once you play this game.
+Furthermore, it lets you create a file about your game, just like how a file is created of any official Soccer match where all the scores and players' details are stored. Similarly, your score and the Computer's scores are stored and the winner is declared in that file along with your name as the File name.
+It also let's you delete, edit, or simply view a previously created file. Just don't forget to store all the files of this program in one folder!
+Have fun!
+Take care and Say Awesome!
+Pranav.
